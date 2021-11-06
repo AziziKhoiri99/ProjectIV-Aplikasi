@@ -1,0 +1,13 @@
+i {
+    cursor: pointer;
+}
+
+i:hover {
+    color: red;
+}
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/2029165.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
